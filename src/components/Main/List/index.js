@@ -1,12 +1,12 @@
 import './styles.css';
-
+import ListItem from './ListItem';
 
 function List() {
     return (    
         <ul>
-            <li>Item de liste</li>
-            <li>Item de liste</li>
-            <li>Item de liste</li>
+            <ListItem />
+            <ListItem />
+            <ListItem />
         </ul> 
     );
    
