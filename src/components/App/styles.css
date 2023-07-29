@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/*Ajouts perso:*/
+#content{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  background-color: rgb(114, 234, 255);
+}

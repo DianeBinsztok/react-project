@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 151, 177);
+    margin-top: 2rem;
+    padding: 1.5rem;
+}
+nav a{
+    color: #ffffff;
+}
+
