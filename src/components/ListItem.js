@@ -1,5 +1,5 @@
-import './styles.css';
-import see from '../../../../assets/icons/eye.png';
+import '../styles/ListItem.css';
+import see from '../assets/icons/eye.png';
 
 
 function ListItem() {

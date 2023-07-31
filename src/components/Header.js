@@ -1,4 +1,4 @@
-import './styles.css';
+import '../styles/Header.css';
 import Nav from './Nav'
 
 function Header() {

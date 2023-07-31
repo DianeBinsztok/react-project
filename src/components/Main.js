@@ -1,4 +1,4 @@
-import './styles.css';
+import '../styles/Main.css';
 import List from './List'
 
 
