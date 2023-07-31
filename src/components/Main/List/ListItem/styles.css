@@ -1,7 +1,15 @@
 .listitem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #ffffff;
     padding: 1rem;
     margin:1rem;
     list-style-type:none;
     border-radius: 10px;
+}
+
+img{
+    width: 2%;
+    height: 2%;
 }

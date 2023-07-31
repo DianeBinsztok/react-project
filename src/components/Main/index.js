@@ -5,7 +5,7 @@ import List from './List'
 function Main() {
     return (
         <main>
-            Le contenu global de la page
+            <h2>Le contenu global de la page</h2>
             <List />
         </main>
     );
