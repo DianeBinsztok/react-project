@@ -32,7 +32,7 @@ function ApplicationDetail({id, title, contract, company, city, status, content,
                 </div>
 
                 <div>
-                <h3>Ma lettre de motivation:</h3>
+                <h3>Ma lettre de motivation</h3>
                 <p>{coverLetter}</p>
                 </div>
 
