@@ -9,7 +9,7 @@
     border-radius: 10px;
 }
 
-img{
-    width: 2%;
-    height: 2%;
+.listitem-icons img{
+    margin-left:0.5rem;
+    width:15%
 }
