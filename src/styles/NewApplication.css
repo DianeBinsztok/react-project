@@ -1,0 +1,15 @@
+#new-application{
+    display: flex;
+    flex-direction: column;
+}
+
+.new-application_input-row{
+    margin-top: 1rem;
+    display: flex;
+}
+
+.new-application_input-column{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}

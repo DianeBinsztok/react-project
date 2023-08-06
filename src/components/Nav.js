@@ -3,9 +3,9 @@ import '../styles/Nav.css';
 function Nav() {
     return (    
         <nav>
-            <a href="#">page1</a>
-            <a href="#">page2</a>
-            <a href="#">page3</a>
+            <a href="#">Tableau de bord</a>
+            <a href="#">Ajouter</a>
+            <a href="#">Todo</a>
         </nav> 
     );
    
