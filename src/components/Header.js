@@ -4,7 +4,7 @@ import Nav from './Nav'
 function Header() {
     return (    
         <header>
-            <h1>Ma liste en React</h1>
+            <p id="site-title">Ma liste en React</p>
             <Nav />
         </header> 
     );
